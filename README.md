@@ -3,7 +3,7 @@
 ##### NIM : 312210690
 ##### Kelas : TI.22.A.2
 ## DOKUMENTASI
-#### PDF 
-### [KLIK DISINI]()
-#### YOUTUBE
-### [KLIK DISINI]()
+### PDF 
+#### [KLIK DISINI]()
+### YOUTUBE
+#### [KLIK DISINI]()
